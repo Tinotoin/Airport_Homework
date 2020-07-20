@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa418716-7a08-49cb-960a-a92ae5a93299" name="Default Changelist" comment="" />
+    <list default="true" id="fa418716-7a08-49cb-960a-a92ae5a93299" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -24,6 +29,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1eoTTDDMfJImhQxSzHAjEhWVPaZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -139,6 +145,10 @@
     </state>
     <state width="1685" height="322" key="GridCell.Tab.1.right/-338.-1057.1920.1057/0.23.1280.722@-338.-1057.1920.1057" timestamp="1595202159624" />
     <state width="2038" height="223" key="GridCell.Tab.1.right/0.23.1280.722@0.23.1280.722" timestamp="1595076945941" />
+    <state x="222" y="-789" key="Vcs.Push.Dialog.v2" timestamp="1595231105852">
+      <screen x="-338" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="222" y="-789" key="Vcs.Push.Dialog.v2/-338.-1057.1920.1057/0.23.1280.722@-338.-1057.1920.1057" timestamp="1595231105852" />
     <state x="215" y="-825" width="670" height="676" key="search.everywhere.popup" timestamp="1595164167898">
       <screen x="-338" y="-1057" width="1920" height="1057" />
     </state>
